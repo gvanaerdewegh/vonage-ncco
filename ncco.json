@@ -1,0 +1,12 @@
+[
+  {
+    "action": "connect",
+    "from": "+33644632259",
+    "endpoint": [
+      {
+        "type": "phone",
+        "number": "+33606422443"
+      }
+    ]
+  }
+]
