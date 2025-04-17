@@ -2,8 +2,7 @@
   {
     "action": "talk",
     "text": "Bonjour et bienvenue chez E-Mothep. Veuillez patienter un instant, un membre de notre équipe va prendre votre appel.",
-    "language": "fr-FR",
-    "voiceName": "Chloe"
+    "language": "fr-FR"
   },
   {
     "action": "connect",
