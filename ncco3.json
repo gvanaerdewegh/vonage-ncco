@@ -1,0 +1,18 @@
+[
+  {
+    "action": "talk",
+    "text": "Bonjour et bienvenue chez E-Mothep. Veuillez patienter un instant, un membre de notre équipe va prendre votre appel.",
+    "language": "fr-FR",
+    "voiceName": "Chloe"
+  },
+  {
+    "action": "connect",
+    "from": "33644632259",
+    "endpoint": [
+      {
+        "type": "phone",
+        "number": "33606422443"
+      }
+    ]
+  }
+]
