@@ -1,12 +1,8 @@
 [
   {
-    "action": "connect",
-    "from": "+33644632259",
-    "endpoint": [
-      {
-        "type": "phone",
-        "number": "+33606422443"
-      }
-    ]
+    "action": "talk",
+    "text": "Bonjour, ceci est un test de configuration Vonage. Votre appel est bien redirigé.",
+    "language": "fr-FR",
+    "voiceName": "Chloe"
   }
 ]
